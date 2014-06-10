@@ -1,0 +1,1 @@
+#match "/mygem", :to => "appmonitor/index", :as => "mygem", :via => :get
